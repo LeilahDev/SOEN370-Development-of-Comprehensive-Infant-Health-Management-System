@@ -2,20 +2,6 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/LeilahDev/SOEN370-Development-of-Comprehensive-Infant-Health-Management-System)](https://github.com/LeilahDev/SOEN370-Development-of-Comprehensive-Infant-Health-Management-System)
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [System Users & Roles](#system-users--roles)
-- [Core Functional Modules](#core-functional-modules)
-- [System Processes (Simplified Flow)](#system-processes-simplified-flow)
-- [System Goals](#system-goals)
-- [Technologies Used](#technologies-used)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Copyright Statement](#copyright-statement)
-
----
 
 ## 💡 Project Overview
 **InfantCare360** is a comprehensive web-based infant health management platform designed to enhance collaboration between caregivers (parents), doctors and administrators.
