@@ -1,4 +1,4 @@
-# InfantCare360 — Web-Based Infant Care Management System
+# InfantCare360 — Infant Health Management System
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/LeilahDev/SOEN370-Development-of-Comprehensive-Infant-Health-Management-System)](https://github.com/LeilahDev/SOEN370-Development-of-Comprehensive-Infant-Health-Management-System)
 
